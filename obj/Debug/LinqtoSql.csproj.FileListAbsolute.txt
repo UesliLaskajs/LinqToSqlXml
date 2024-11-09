@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\bin\Debug\LinqtoSql.exe.config
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\bin\Debug\LinqtoSql.exe
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\bin\Debug\LinqtoSql.pdb
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\App.g.cs
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql_MarkupCompile.cache
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql_MarkupCompile.lref
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.g.resources
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.Properties.Resources.resources
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.exe
+C:\Users\User\source\repos\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.pdb
